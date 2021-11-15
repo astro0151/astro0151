@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @astro0151
-- 👀 I’m interested in web designing.
-- 🌱 I’m currently learning reactjs & nodejs.
+- 👋 Hi, I’m @astro0151,Gulbahar Ali,web developer;
+- fullstack developer
+- 👀 I’m interested in web development;
+
+
+-            skills:
+-       -Html,Css,Bootstrap;
+-       -JavaScript,ReactJs,NodeJs,ExpressJs;
+-       -Sql,Mysql,MongoDB;
+- 
+             working tools:
+             -Vs Code
+             -Git
+             -Linux(OS)
+
 - 💞️ I’m looking to collaborate on freelancing projects.
-- 📫 How to reach me ...just email me with subject line "github_job_offer" at: gulbahar0151@gmail.com
+- 📫 How to reach me ...just email me@:- gulbahar0151@gmail.com
 
 <!---
 astro0151/astro0151 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
