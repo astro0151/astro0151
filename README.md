@@ -13,7 +13,7 @@
              -Git
              -Linux(OS)
 
-- 💞️ I’m looking to collaborate on freelancing projects.
+- 💞️ I’m looking to collaborate on freelancing projects and open source projects.
 - 📫 How to reach me ...just email me@:- gulbahar0151@gmail.com
 
 <!---
