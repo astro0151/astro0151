@@ -14,7 +14,8 @@
              -Linux(OS)
 
 - 💞️ I’m looking to collaborate on freelancing projects and open source projects.
-- 📫 How to reach me ...just email me@:- gulbahar0151@gmail.com
+- 
+-email me@:- gulbahar0151@gmail.com or gulbaharali89@gmail.com
 
 <!---
 astro0151/astro0151 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
